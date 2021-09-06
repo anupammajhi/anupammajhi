@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupammajhi&layout=compact)](https://github.com/anupammajhi)
 ![Anupam's Github Stats](https://github-readme-stats.vercel.app/api?username=anupammajhi&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anupammajhi)
