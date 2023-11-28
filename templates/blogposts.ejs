@@ -1,0 +1,37 @@
+<% 
+let count = 0;
+let i = 0;
+while (count < 4 && i < 10){
+    if(jsonData[i].coverImage){
+        count++;
+
+        let blogUrl = jsonData[i].url
+        let imageUrl = jsonData[i].coverImage.url
+        
+        const replacementUrl = "tech.anupamm.com"
+        const originalUrlSearchString = /anupammajhi\.hashnode\.dev/g
+
+        blogUrl = blogUrl.replace(originalUrlSearchString, replacementUrl)
+        imageUrl = imageUrl.replace(originalUrlSearchString, replacementUrl)
+
+        let date = new Date(jsonData[i].publishedAt);
+        let formattedDate = date.toLocaleString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+%>
+<tr>
+<td><a href="<%= blogUrl %>"><img src="<%= imageUrl %>" width="400" height="auto" /></a></td>
+<td>
+<a href="<%= blogUrl %>"><b><%= jsonData[i].title %></b></a><br />
+<code><%= formattedDate %></code><br />
+<p><%= jsonData[i].brief %></p>
+</td>
+</a>
+</tr>
+<% 
+    }
+    i++;
+} 
+%>

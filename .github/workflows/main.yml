@@ -1,0 +1,25 @@
+name: Update Blog Posts Workflow
+
+on: workflow_dispatch
+
+jobs:
+  my_test_customaction:
+    runs-on: ubuntu-latest
+    name: Update Blog Posts
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Get Latest Hashnode Posts
+        id: latest_hashnode_posts
+        uses: anupammajhi/githubaction-latest-hashnode-posts@v1.0.0
+        with:
+          HASHNODE_PUBLICATION_ID: ${{ secrets.ANUPAMMAJHI_HASHNODE_PUB_ID }}
+      - name: Update File
+        id: update_file
+        uses: anupammajhi/githubaction-update-repo-file@v1.0.0
+        with:
+          FILE_PATH: "README.md"
+          STARTING_COMMENT: "<!-- HASHNODE_POSTS_START -->"
+          ENDING_COMMENT: "<!-- HASHNODE_POSTS_END -->"
+          EJS_TEMPLATE_PATH: "templates/blogposts.ejs"
+          TEMPLATE_INPUT_JSON: ${{steps.latest_hashnode_posts.outputs.result}}
