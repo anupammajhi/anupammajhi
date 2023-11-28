@@ -27,6 +27,49 @@
 ### Recent Blog Posts
 <table>
 <!-- HASHNODE_POSTS_START -->
+
+<tr>
+<td><a href="https://tech.anupamm.com/windows-red-hat-rhel9-with-wsl2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700655789491/a719157b-6562-4ee5-8471-de63cb459395.png" width="400" height="auto" /></a></td>
+<td>
+<a href="https://tech.anupamm.com/windows-red-hat-rhel9-with-wsl2"><b>WINDOWS: Red Hat (RHEL9) with WSL2</b></a><br />
+<code>June 11, 2022</code><br />
+<p>While trying to get Red Hat (RHEL9) installed in my WSL (Windows Subsystem for Linux) within my Windows 11 laptop, I stumbled upon the same hurdle I did for installing the older RHEL8. The list of available distros published by Microsoft still does n...</p>
+</td>
+</a>
+</tr>
+
+<tr>
+<td><a href="https://tech.anupamm.com/linux-zsh-theme-i-use"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700496493427/e755b6f5-25be-4e60-9b7d-28b558ba7f90.png" width="400" height="auto" /></a></td>
+<td>
+<a href="https://tech.anupamm.com/linux-zsh-theme-i-use"><b>LINUX: &#34;zsh&#34; Theme I use</b></a><br />
+<code>March 23, 2021</code><br />
+<p>While trying to setup RHEL with WSL 2, I stumbled upon this very helpful blog https://wsl.dev/mobyrhel8/
+While doing the setup, I found this zsh theme very nice, and I have been using it since then. The above mentioned blog already has the steps, but...</p>
+</td>
+</a>
+</tr>
+
+<tr>
+<td><a href="https://tech.anupamm.com/change-ubuntu-hostname-running-on-wsl"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700656038404/d616b0a2-0b7f-46c3-9a38-1f73889118da.png" width="400" height="auto" /></a></td>
+<td>
+<a href="https://tech.anupamm.com/change-ubuntu-hostname-running-on-wsl"><b>WINDOWS: Change Ubuntu hostname running on WSL</b></a><br />
+<code>March 14, 2021</code><br />
+<p>If you want to change the Ubuntu hostname running on WSL, you might have already tried updating the /etc/hostname file, only to realize that after a reboot, the host name changes back to the original hostname.
+You also might have already figured that...</p>
+</td>
+</a>
+</tr>
+
+<tr>
+<td><a href="https://tech.anupamm.com/knn-an-introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693157876637/76368d96-a557-4e29-8189-3f46a8ace1b1.png" width="400" height="auto" /></a></td>
+<td>
+<a href="https://tech.anupamm.com/knn-an-introduction"><b>KNN — An Introduction</b></a><br />
+<code>July 28, 2019</code><br />
+<p>KNN or k-Nearest Neighbors algorithm is quite a classic algorithm to solve classification problems. It is based on a simple assumption that objects in a group (neighbors) or close to the group tend to have similar traits and hence can be classified. ...</p>
+</td>
+</a>
+</tr>
+
 <!-- HASHNODE_POSTS_END -->
 </table>
 
