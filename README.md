@@ -29,7 +29,7 @@
 <!-- HASHNODE_POSTS_START -->
 
 <tr>
-<td style="width:70%"><a href="https://tech.anupamm.com/windows-red-hat-rhel9-with-wsl2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700655789491/a719157b-6562-4ee5-8471-de63cb459395.png" width="500" height="auto" /></a></td>
+<td style="width:30%"><a href="https://tech.anupamm.com/windows-red-hat-rhel9-with-wsl2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700655789491/a719157b-6562-4ee5-8471-de63cb459395.png" width="500" height="auto" /></a></td>
 <td>
 <a href="https://tech.anupamm.com/windows-red-hat-rhel9-with-wsl2"><b>WINDOWS: Red Hat (RHEL9) with WSL2</b></a><br />
 <code>June 11, 2022</code><br />
@@ -39,7 +39,7 @@
 </tr>
 
 <tr>
-<td style="width:70%"><a href="https://tech.anupamm.com/linux-zsh-theme-i-use"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700496493427/e755b6f5-25be-4e60-9b7d-28b558ba7f90.png" width="500" height="auto" /></a></td>
+<td style="width:30%"><a href="https://tech.anupamm.com/linux-zsh-theme-i-use"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700496493427/e755b6f5-25be-4e60-9b7d-28b558ba7f90.png" width="500" height="auto" /></a></td>
 <td>
 <a href="https://tech.anupamm.com/linux-zsh-theme-i-use"><b>LINUX: &#34;zsh&#34; Theme I use</b></a><br />
 <code>March 23, 2021</code><br />
@@ -50,7 +50,7 @@ While doing the setup, I found this zsh theme very nice, and I have been using i
 </tr>
 
 <tr>
-<td style="width:70%"><a href="https://tech.anupamm.com/change-ubuntu-hostname-running-on-wsl"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700656038404/d616b0a2-0b7f-46c3-9a38-1f73889118da.png" width="500" height="auto" /></a></td>
+<td style="width:30%"><a href="https://tech.anupamm.com/change-ubuntu-hostname-running-on-wsl"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700656038404/d616b0a2-0b7f-46c3-9a38-1f73889118da.png" width="500" height="auto" /></a></td>
 <td>
 <a href="https://tech.anupamm.com/change-ubuntu-hostname-running-on-wsl"><b>WINDOWS: Change Ubuntu hostname running on WSL</b></a><br />
 <code>March 14, 2021</code><br />
@@ -61,7 +61,7 @@ You also might have already figured that...</p>
 </tr>
 
 <tr>
-<td style="width:70%"><a href="https://tech.anupamm.com/knn-an-introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693157876637/76368d96-a557-4e29-8189-3f46a8ace1b1.png" width="500" height="auto" /></a></td>
+<td style="width:30%"><a href="https://tech.anupamm.com/knn-an-introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693157876637/76368d96-a557-4e29-8189-3f46a8ace1b1.png" width="500" height="auto" /></a></td>
 <td>
 <a href="https://tech.anupamm.com/knn-an-introduction"><b>KNN — An Introduction</b></a><br />
 <code>July 28, 2019</code><br />
