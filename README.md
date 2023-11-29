@@ -74,4 +74,4 @@ You also might have already figured that...</p>
 </table>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/anupammajhi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anupammajhi" /></a></p>
+<p><a href="https://www.buymeacoffee.com/anupammajhi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="auto" alt="anupammajhi" /></a></p>
