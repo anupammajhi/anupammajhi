@@ -29,6 +29,17 @@
 <!-- HASHNODE_POSTS_START -->
 
 <tr>
+<td style="width:30%"><a href="https://tech.anupamm.com/github-actions-to-publish-hashnode-posts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701265406214/835faf19-729c-4eab-adf9-ac2cbb8eb341.png" width="500" height="auto" /></a></td>
+<td>
+<a href="https://tech.anupamm.com/github-actions-to-publish-hashnode-posts"><b>GITHUB: Actions to publish Hashnode posts</b></a><br />
+<code>November 29, 2023</code><br />
+<p>Hashnode introduced &#39;headless&#39; and while having a look at it, It really seemed interesting. It&#39;s nice to have a way to play with our publications and posts from Hashnode, outside of Hashnode without tedious data scraping.
+While reading another blog, ...</p>
+</td>
+</a>
+</tr>
+
+<tr>
 <td style="width:30%"><a href="https://tech.anupamm.com/windows-red-hat-rhel9-with-wsl2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700655789491/a719157b-6562-4ee5-8471-de63cb459395.png" width="500" height="auto" /></a></td>
 <td>
 <a href="https://tech.anupamm.com/windows-red-hat-rhel9-with-wsl2"><b>WINDOWS: Red Hat (RHEL9) with WSL2</b></a><br />
@@ -56,16 +67,6 @@ While doing the setup, I found this zsh theme very nice, and I have been using i
 <code>March 14, 2021</code><br />
 <p>If you want to change the Ubuntu hostname running on WSL, you might have already tried updating the /etc/hostname file, only to realize that after a reboot, the host name changes back to the original hostname.
 You also might have already figured that...</p>
-</td>
-</a>
-</tr>
-
-<tr>
-<td style="width:30%"><a href="https://tech.anupamm.com/knn-an-introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693157876637/76368d96-a557-4e29-8189-3f46a8ace1b1.png" width="500" height="auto" /></a></td>
-<td>
-<a href="https://tech.anupamm.com/knn-an-introduction"><b>KNN — An Introduction</b></a><br />
-<code>July 28, 2019</code><br />
-<p>KNN or k-Nearest Neighbors algorithm is quite a classic algorithm to solve classification problems. It is based on a simple assumption that objects in a group (neighbors) or close to the group tend to have similar traits and hence can be classified. ...</p>
 </td>
 </a>
 </tr>
