@@ -50,23 +50,22 @@ While reading another blog, ...</p>
 </tr>
 
 <tr>
+<td style="width:30%"><a href="https://tech.anupamm.com/windows-elevating-powershell-to-admin-mode-without-uac-prompt"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702762402950/d85ab544-fd49-4c83-8843-3e0532a44be9.webp" width="500" height="auto" /></a></td>
+<td>
+<a href="https://tech.anupamm.com/windows-elevating-powershell-to-admin-mode-without-uac-prompt"><b>WINDOWS: Elevating PowerShell to Admin Mode without UAC prompt</b></a><br />
+<code>October 20, 2021</code><br />
+<p>PowerShell is a powerful tool, allowing to perform a myriad of tasks with just a few commands. However, there are times when elevated privileges are required to execute certain commands. This is as easy as right-clicking PowerShell and &#34;Run As Admini...</p>
+</td>
+</a>
+</tr>
+
+<tr>
 <td style="width:30%"><a href="https://tech.anupamm.com/linux-zsh-theme-i-use"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700496493427/e755b6f5-25be-4e60-9b7d-28b558ba7f90.png" width="500" height="auto" /></a></td>
 <td>
 <a href="https://tech.anupamm.com/linux-zsh-theme-i-use"><b>LINUX: &#34;zsh&#34; Theme I use</b></a><br />
 <code>March 23, 2021</code><br />
 <p>While trying to setup RHEL with WSL 2, I stumbled upon this very helpful blog https://wsl.dev/mobyrhel8/
 While doing the setup, I found this zsh theme very nice, and I have been using it since then. The above mentioned blog already has the steps, but...</p>
-</td>
-</a>
-</tr>
-
-<tr>
-<td style="width:30%"><a href="https://tech.anupamm.com/change-ubuntu-hostname-running-on-wsl"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700656038404/d616b0a2-0b7f-46c3-9a38-1f73889118da.png" width="500" height="auto" /></a></td>
-<td>
-<a href="https://tech.anupamm.com/change-ubuntu-hostname-running-on-wsl"><b>WINDOWS: Change Ubuntu hostname running on WSL</b></a><br />
-<code>March 14, 2021</code><br />
-<p>If you want to change the Ubuntu hostname running on WSL, you might have already tried updating the /etc/hostname file, only to realize that after a reboot, the host name changes back to the original hostname.
-You also might have already figured that...</p>
 </td>
 </a>
 </tr>
