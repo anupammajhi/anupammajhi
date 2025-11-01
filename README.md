@@ -8,11 +8,11 @@
 </h3>
 </br>
 
-- 🌱 I’m currently learning **Serverless Framework and SAM**
+- 🌱 I’m currently learning **Edge AI, Explainable AI**
 
-- 🤝 I’m looking for help with **Backend Development with Java**
+- 🤝 I’m looking for help with **Machine Learning Development and Backend Development with Java**
 
-- 💬 Ask me about **DevOps, AWS, Powershell**
+- 💬 Ask me about **MLOps, DataOps, AIOps, DevOps, AWS, Powershell**
 
 
 <h3 align="left">Languages and Tools:</h3>
